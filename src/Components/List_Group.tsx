@@ -13,7 +13,9 @@ function ListGroup() {
         // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
     }
 
-
+    const getMessage() => {
+        return listofNames.map((names) => <li className="list-group-item">{names}</li>)
+    }
 
     return (
         <>
