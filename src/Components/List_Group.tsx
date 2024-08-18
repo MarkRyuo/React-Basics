@@ -7,8 +7,9 @@ function ListGroup() {
         // * Use Curly Braces to comments
     }
 
-    let listofNames = ["Riyuo", "Niyari","Sopheya","Jilan" ] ; 
+    const listofNames = ["Riyuo", "Niyari","Sopheya","Jilan" ] ; 
 
+    listofNames.map(names => <p>{names}</p>)
 
 
 
