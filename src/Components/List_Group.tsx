@@ -7,6 +7,8 @@ function ListGroup() {
         // * Use Curly Braces to comments
     }
 
+    let listofNames = ["Riyuo", "Niyari","Sopheya","Jilan" ] ;
+
 
 
 
