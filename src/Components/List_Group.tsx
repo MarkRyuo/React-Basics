@@ -19,7 +19,7 @@ function ListGroup() {
         <>
             <div className="container-lg">
             <ul className="list-group">
-                <p className="H1">List Group</p>
+                <p className="h1">List Group</p>
                 <li className="list-group-item disabled" aria-disabled="true"> A disabled item </li>
                 {listofNames.map((names) => <li className="list-group-item">{names}</li>)}
             </ul>
@@ -28,4 +28,9 @@ function ListGroup() {
     );
 }
 
-export default ListGroup ;
+
+
+
+
+
+export default ListGroup ; 
