@@ -18,11 +18,11 @@ function ListGroup() {
     return (
         <>
             <div className="container-lg">
-            <ul className="list-group">
-                <p className="h1">List Group</p>
-                <li className="list-group-item disabled" aria-disabled="true"> A disabled item </li>
-                {listofNames.map((names) => <li className="list-group-item">{names}</li>)}
-            </ul>
+                <ul className="list-group">
+                    <p className="h1">List Group</p>
+                    <li className="list-group-item disabled" aria-disabled="true"> A disabled item </li>
+                    {listofNames.map((names) => <li className="list-group-item">{names}</li>)}
+                </ul>
             </div>
         </>
     );
