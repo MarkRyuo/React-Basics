@@ -1,7 +1,36 @@
 # React + TypeScript + Vite
 
 
+React with Vite
 
+#Commands 
+
+##Create a react app 
+
+1. 
+	$ npm create vite@(specific version) or 
+	$ npm create vite@latest 
+
+2. 
+	Ok to proceed? (y)
+	Create a project name: 
+	Select a framework:
+	Select a variant 
+
+3. 
+	Done. Now run this: 
+
+	cd (projectname)
+	npm install 
+	npm run dev 
+
+4. 
+	Run in vscode: 
+	$ code. 
+
+
+# Course link : 
+	- https://youtu.be/SqcY0GlETPk?si=-bmwzj9UPrc4Kduu 
 
 
 
