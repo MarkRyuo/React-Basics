@@ -9,6 +9,10 @@ function ListGroup() {
 
     const listofNames = ["Riyuo", "Niyari","Sopheya","Jilan" ] ; 
 
+    {
+        // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
+    }
+
     listofNames.map(names => <p>{names}</p>)
 
 
