@@ -3,10 +3,13 @@
 
 function ListGroup() {
 
+    {
+        // * Use Curly Braces to comments
+    }
 
 
 
-    
+
     return (
         <>
             <div className="container-lg">
