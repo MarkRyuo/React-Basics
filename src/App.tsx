@@ -6,7 +6,7 @@ function App() {
   return (
 
     <>
-      <div><ListGroup></ListGroup></div>
+      <div><ListGroup/></div>
     </>
 
   ) ;
