@@ -14,7 +14,8 @@ function ListGroup() {
     }
 
     const getMessage() => {
-        return listofNames.map((names) => <li className="list-group-item">{names}</li>) ;
+        return listofNames.map((names) => ( 
+            <li className="list-group-item">{names}</li>)) ;
     }
 
     return (
