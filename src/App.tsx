@@ -1,5 +1,4 @@
-
-
+import ListGroup from "./Components/List_Group";
 
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
   return (
 
     <>
-    
+      <div><ListGroup></ListGroup></div>
     </>
 
   ) ;
