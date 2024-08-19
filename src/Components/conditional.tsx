@@ -8,7 +8,7 @@ function Conditional() {
     
     return (
         <>
-            {GetAge}
+            <h1>{GetAge}</h1>
         </>
     ) ;
 }
