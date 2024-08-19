@@ -1,4 +1,5 @@
-import ListGroup from "./Components/List_Group";
+import Conditional from "./Components/conditional";
+// import ListGroup from "./Components/List_Group";
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
   return (
 
     <>
-      <div><ListGroup/></div>
+      <div><Conditional/></div>
     </>
 
   ) ;
