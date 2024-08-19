@@ -8,9 +8,7 @@ function Conditional() {
 
     const GettheName = () => {
 
-        let Name ;
-
-        
+        const Name = 
 
     }
     
