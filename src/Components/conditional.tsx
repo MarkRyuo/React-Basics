@@ -4,7 +4,7 @@ function Conditional() {
 
     const age= 21 ;
 
-    const GetAge = age >= 20 ? "true" : "false" ;  
+    const GetAge = age >= 20 ? "true" : "false" ;  {/* This is a Ternary operator*/}
     
     return (
         <>
