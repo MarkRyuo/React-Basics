@@ -4,11 +4,11 @@ function Conditional() {
 
     let age= 21 ;
 
-    age > 20 ? true :   
+    const GetAge = age > 20 ? true : false ;  
     
     return (
         <>
-        
+            {GetAge}
         </>
     ) ;
 }
