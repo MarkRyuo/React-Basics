@@ -11,8 +11,8 @@ function ListGroup() {
     ] ; 
             
     // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
-    
-    // * Arrow Functional 
+
+    // * Using Method for displaying list 
     const getMessage = () => {
         return listofNames.map((names) => (
             <li className="list-group-item">{names}</li>
