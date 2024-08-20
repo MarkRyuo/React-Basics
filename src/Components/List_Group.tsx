@@ -1,7 +1,7 @@
 
 function ListGroup() {
 
-        // * Use Curly Braces to under jsx comments
+        // * Use Curly Braces to inside jsx comments { // comment}
 
     const listofNames = [
         "Riyuo", 
