@@ -14,8 +14,8 @@ function Conditional() {
         <>      
 
             <h1>{GetAge}</h1>
-            
-            <h1>{GettheAge()}</h1>
+
+            <h1>{GettheAge()}</h1> {/* Functional */}
         </>
     ) ;
 }
