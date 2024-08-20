@@ -3,7 +3,7 @@
 
 function HandlingEvents () {
 
-    const listofCitys =  [
+    const listofCity =  [
         "Lipa City",
         "San Juan",
         "Batangas City",
@@ -18,7 +18,7 @@ function HandlingEvents () {
             <div className="container-lg">
                 <ul className="list-group">
                     <p className="h1">List of City's</p>
-                    {listofCitys.map((city) => <li className="list-group-item">{city}</li>)} {/*  */}
+                    {listofCity.map((city) => <li className="list-group-item">{city}</li>)} {/*  */}
                 </ul>
             </div>
         
