@@ -5,7 +5,12 @@ function ListGroup() {
         // * Use Curly Braces to comments
     }
 
-    const listofNames = ["Riyuo", "Niyari","Sopheya","Jilan" ] ; 
+    const listofNames = [
+        "Riyuo", 
+        "Niyari",
+        "Sopheya",
+        "Jilan" 
+    ] ; 
 
     {
         // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
