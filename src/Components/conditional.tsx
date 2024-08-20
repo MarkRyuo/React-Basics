@@ -13,7 +13,7 @@ function Conditional() {
     return (
         <>      
 
-            <h1>{GetAge}</h1>
+            <h1>{GetAge}</h1> {/* Normal */}
 
             <h1>{GettheAge()}</h1> {/* Functional */}
         </>
