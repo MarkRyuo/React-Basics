@@ -18,7 +18,7 @@ function HandlingEvents () {
             <div className="container-lg">
                 <ul className="list-group">
                     <p className="h1">List of City's</p>
-                    {listofCity.map((city) => <li className="list-group-item">{city}</li>)} {/* I use map method here */}
+                    {listofCity.map((city) => <li className="list-group-item" key={city}>{city}</li>)} {/* I use map method here */}
                 </ul>
             </div>
         
