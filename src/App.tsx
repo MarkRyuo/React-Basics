@@ -1,5 +1,7 @@
-import Conditional from "./Components/conditional";
+// import Conditional from "./Components/conditional";
 // import ListGroup from "./Components/List_Group";
+
+import HandlingEvents from "./Components/Handling_events";
 
 
 function App() {
@@ -7,7 +9,7 @@ function App() {
   return (
 
     <>
-      <div><Conditional/></div>
+      <div><HandlingEvents/></div>
     </>
 
   ) ;
