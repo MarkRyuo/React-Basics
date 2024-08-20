@@ -11,7 +11,7 @@ function Conditional() {
     }
     
     return (
-        <>
+        <>      
             <h1>{GetAge}</h1>
         </>
     ) ;
