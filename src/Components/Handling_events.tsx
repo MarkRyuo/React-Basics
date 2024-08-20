@@ -6,7 +6,7 @@ function HandlingEvents () {
     const listofCitys =  [
         "Lipa City",
         "San Juan",
-        "Batangas City"
+        "Batangas City",
         "Quezon City"
     ]
 
