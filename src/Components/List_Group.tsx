@@ -1,7 +1,7 @@
 
 function ListGroup() {
 
-        // * Use Curly Braces to inside jsx comments { // comment}
+        // * Use Curly Braces to inside jsx comments { // comment }
 
     const listofNames = [
         "Riyuo", 
@@ -9,10 +9,8 @@ function ListGroup() {
         "Sopheya",
         "Jilan" 
     ] ; 
-
-    {
+    
         // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
-    }
 
     const getMessage = () => {
         return listofNames.map((names) => (
