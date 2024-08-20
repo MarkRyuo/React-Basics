@@ -2,7 +2,7 @@
 function ListGroup() {
 
     {
-        // * Use Curly Braces to comments
+        // * Use Curly Braces to shorts comments
     }
 
     const listofNames = [
