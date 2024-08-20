@@ -1,4 +1,9 @@
 
 
 
-function HandlingEvents ()
+function HandlingEvents () {
+
+}
+
+
+export default HandlingEvents ;
