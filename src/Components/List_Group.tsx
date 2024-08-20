@@ -9,9 +9,10 @@ function ListGroup() {
         "Sopheya",
         "Jilan" 
     ] ; 
+            
+    // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
     
-        // * Map method : How it works? listofNames.map(parameter => <p>{parameter}</p>)
-
+    // * Arrow Functional 
     const getMessage = () => {
         return listofNames.map((names) => (
             <li className="list-group-item">{names}</li>
