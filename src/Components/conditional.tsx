@@ -6,8 +6,9 @@ function Conditional() {
 
     const GetAge = age >= 20 ? <p>GREATER Normal</p> : <p>LOWER Normal</p> ;  {/* This is a Ternary operator*/}
 
+    // * Arrow Function 
     const GettheAge = () => {
-        return age >= 20 ? <p>GREATER Functional</p> : <p>LOWER Functional</p>;
+        return age >= 20 ? <p>GREATER Functional</p> : <p>LOWER Functional</p>;  
     }
     
     return (
