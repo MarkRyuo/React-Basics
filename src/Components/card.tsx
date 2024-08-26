@@ -1,6 +1,9 @@
 
 
 function Card(){
+    const username = "Moda"
+
+
     return (
         <>
             <div className="card" style={{width: "18rem;"}}>
