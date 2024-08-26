@@ -9,6 +9,9 @@ function Cardcounter() {
         setCount(count + 1)
     }
 
+    const Decrement = () => {
+        setCount(count - 1)
+    }
     const [count, setCount] = useState(0) ;
 
     return (
