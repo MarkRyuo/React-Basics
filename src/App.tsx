@@ -10,7 +10,7 @@ function App() {
   const Users = {
     
     user1: {
-      cardName: "Moda"
+      cardName: "Moda",
       description: "Moda is real"
     }
   }
