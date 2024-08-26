@@ -4,7 +4,7 @@
 // import HandlingEvents from "./Components/Handling_events";
 import Card from "./Components/card";
 
-//* Spread Operator : {...}
+//* Spread Operator : {...} - it helps you access all the props in one go you can use the spread operator to unpack everythin inside the object quickly and easily
 
 function App() {
 
