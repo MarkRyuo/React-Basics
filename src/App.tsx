@@ -13,7 +13,7 @@ function App() {
       <div className="container-lg">
         <div className="row g-1">
             <div className="col-sm-4 col-md-4">
-              <div><Card/></div>
+              <div><Card/> cardName={"Moda"} description={"Moda is real "}</div>
             </div>
             <div className="col-sm-4 col-md-4">
               <div><Card/></div>
