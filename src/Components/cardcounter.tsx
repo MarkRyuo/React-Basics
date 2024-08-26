@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import {useState} from "react";
 
 
 //* Usestate hook - 
@@ -24,7 +24,7 @@ function Cardcounter() {
                     <div className="card-text">
                     <p>Count: {count}</p>
                     <button type="button" className="btn btn-success" onClick={Increment}>Increase</button>
-                    <button type="button" className="btn btn-warning" onClick={}>Decrease</button>
+                    <button type="button" className="btn btn-warning" onClick={Decrement}>Decrease</button>
                     </div>
                 </div>
             </div>
