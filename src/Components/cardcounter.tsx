@@ -3,7 +3,7 @@ function Cardcounter(props) {
 
     return (
         <>
-            <div className="card">
+            <div className="card" style={{width: "20rem"}}>
                 <div className="card-body">
                     <div className="card-title">
                     {props.cardTitle}
