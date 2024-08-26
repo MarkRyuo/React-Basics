@@ -5,7 +5,6 @@
 
 
 function Card(props){
-    const username = "Moda"
 
 
     return (
@@ -13,7 +12,7 @@ function Card(props){
             <div className="card" style={{width: "10rem;"}}>
                 <img src="..." className="card-img-top" alt="..."/>
                 <div className="card-body">
-                    <h5 className="card-title">{props.cardName}</h5>
+                    <h5 className="card-title">{props.cardName}</h5> 
                     <p className="card-text">{props.description}</p>
                     <a href="#" className="btn btn-primary">Go somewhere</a>
                 </div>
