@@ -10,9 +10,13 @@ function App() {
   return (
 
     <>
-      <div className="conatiner-lg">
-        <div><Card/></div>
+      <div className="container-lg">
+        <div className="">
 
+        </div>
+        <div><Card/></div>
+        <div><Card/></div>
+        <div><Card/></div>
       </div>
     </>
 
