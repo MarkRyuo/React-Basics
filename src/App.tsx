@@ -4,6 +4,7 @@
 // import HandlingEvents from "./Components/Handling_events";
 import Card from "./Components/card";
 
+//* Spread Operator : {...}
 
 function App() {
 
