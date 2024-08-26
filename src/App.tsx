@@ -21,6 +21,7 @@ function App() {
 
     user3: {
       cardName: "Riyuo",
+      description: "The only one can do!"
     }
   }
 
