@@ -19,7 +19,9 @@ function App() {
       description: "Niyari the light of the dark"
     },
 
-    user3: 
+    user3: {
+      cardName: "Riyuo",
+    }
   }
 
   return (
