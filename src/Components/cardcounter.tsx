@@ -5,7 +5,9 @@ function Cardcounter() {
         <>
             <div className="card">
                 <div className="card-body">
-                    
+                    <div className="card-title">
+                        
+                    </div>
                 </div>
             </div>
         </>
