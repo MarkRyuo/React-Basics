@@ -3,7 +3,9 @@ function Cardcounter() {
 
     return (
         <>
-            
+            <div className="">
+
+            </div>
         </>
     );
 }
