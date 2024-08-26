@@ -1,4 +1,4 @@
-
+import React from "react";
 
 //* Props - Lets you send data from one components to another 
 //* Use props to make this values dynamic and changeable 
@@ -9,7 +9,7 @@ function Card(props){
 
     return (
         <>
-            <div className="card" style={{width: "10rem;"}}>
+            <div className="card" style={{width: "10rem"}}>
                 <img src="..." className="card-img-top" alt="..."/>
                 <div className="card-body">
                     <h5 className="card-title">{props.cardName}</h5> 
