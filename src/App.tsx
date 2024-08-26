@@ -16,7 +16,7 @@ function App() {
               <div><Card cardName={"Moda"} description={"Moda is real"}/></div>
             </div>
             <div className="col-sm-4 col-md-4">
-              <div><Card cardName={"Moda"} description={"Moda is real"}/></div>
+              <div><Card cardName={"Niyari"} description={"Moda is real"}/></div>
             </div>
             <div className="col-sm-4 col-md-4">
               <div><Card cardName={"Moda"} description={"Moda is real"}/></div>
