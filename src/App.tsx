@@ -12,7 +12,7 @@ function App() {
     user1: {
       cardName: "Moda",
       description: "Moda is real"
-    }
+    },
 
     user2: {
       cardName: "Niyari",
