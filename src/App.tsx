@@ -2,6 +2,7 @@
 // import ListGroup from "./Components/List_Group";
 
 import HandlingEvents from "./Components/Handling_events";
+import Card from "./Components/card";
 
 
 function App() {
@@ -9,9 +10,7 @@ function App() {
   return (
 
     <>
-      <div>
-        
-      </div>
+      <div><HandlingEvents/></div>
     </>
 
   ) ;
