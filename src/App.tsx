@@ -34,7 +34,7 @@ function App() {
               <div><Card {...Users.user1}/></div>
             </div>
             <div className="col-sm-4 col-md-4">
-              <div><Card cardName={"Niyari"} description={"Moda is real"}/></div>
+              <div><Card {...Users.user2}/></div>
             </div>
             <div className="col-sm-4 col-md-4">
               <div><Card cardName={"Riyuo"} description={"Moda is real"}/></div>
