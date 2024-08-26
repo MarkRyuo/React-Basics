@@ -1,12 +1,12 @@
 
-function Cardcounter(props) {
+function Cardcounter() {
 
     return (
         <>
             <div className="card" style={{width: "20rem"}}>
                 <div className="card-body">
                     <div className="card-title">
-                    {props.cardTitle}
+                    Counter
                     </div>
                     <div className="card-text">
                     {props.cardText}
