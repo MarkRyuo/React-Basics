@@ -15,7 +15,8 @@ function App() {
     }
 
     user2: {
-      cardName: "Niyari"
+      cardName: "Niyari",
+      description: "Niyari the light of the dark"
     }
   }
 
