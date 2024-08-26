@@ -9,7 +9,9 @@ function App() {
   return (
 
     <>
-      <div><HandlingEvents/></div>
+      <div>
+        
+      </div>
     </>
 
   ) ;
