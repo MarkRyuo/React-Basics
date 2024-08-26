@@ -24,7 +24,7 @@ function Cardcounter() {
                     <div className="card-text">
                     <p>Count: {count}</p>
                     <button type="button" className="btn btn-success" onClick={Increment}>Increase</button>
-                    <button type="button" className="btn btn-warning">Decrease</button>
+                    <button type="button" className="btn btn-warning" onClick={}>Decrease</button>
                     </div>
                 </div>
             </div>
