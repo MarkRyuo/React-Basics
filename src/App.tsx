@@ -11,8 +11,10 @@ function App() {
 
     <>
       <div className="container-lg">
-        <div className="">
+        <div className="row g-1">
+            <div className="">
 
+            </div>
         </div>
         <div><Card/></div>
         <div><Card/></div>
