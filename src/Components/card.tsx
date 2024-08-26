@@ -3,6 +3,7 @@
 
 function Card(){
     return (
-        
+        <>
+        </>
     );
 }
