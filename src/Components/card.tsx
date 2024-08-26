@@ -1,6 +1,7 @@
 
 
 //* Props - Lets you send data from one components to another 
+//* Use props to make this values dynamic and changeable 
 
 
 function Card(){
