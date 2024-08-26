@@ -5,7 +5,9 @@ import React, {useState} from "react";
 
 function Cardcounter() {
 
-
+    const increment => () {
+        
+    }
     const [count, setCount] = useState(0) ;
 
     return (
@@ -17,7 +19,7 @@ function Cardcounter() {
                     </h1>
                     <div className="card-text">
                     <p>Count: {count}</p>
-                    <button type="button" className="btn btn-success">Increase</button>
+                    <button type="button" className="btn btn-success" onClick={}>Increase</button>
                     <button type="button" className="btn btn-warning">Decrease</button>
                     </div>
                 </div>
