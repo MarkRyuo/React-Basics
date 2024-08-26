@@ -1,5 +1,8 @@
 
 
+//* Props - Lets you send data from one components to another 
+
+
 function Card(){
     const username = "Moda"
 
