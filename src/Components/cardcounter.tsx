@@ -5,11 +5,11 @@ function Cardcounter() {
         <>
             <div className="card" style={{width: "20rem"}}>
                 <div className="card-body">
-                    <div className="card-title">
+                    <h1 className="card-title">
                     Counter
-                    </div>
+                    </h1>
                     <div className="card-text">
-                    {props.cardText}
+                    
                     </div>
                 </div>
             </div>
