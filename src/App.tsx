@@ -21,7 +21,7 @@ function App() {
       <div className="container-lg">
         <div className="row g-1">
             <div className="col-sm-4 col-md-4">
-              <div><Card cardName={"Moda"} description={"Moda is real"}/></div>
+              <div><Card {...Users.user1}/></div>
             </div>
             <div className="col-sm-4 col-md-4">
               <div><Card cardName={"Niyari"} description={"Moda is real"}/></div>
