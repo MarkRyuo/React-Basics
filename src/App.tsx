@@ -15,7 +15,7 @@ function App() {
     }
 
     user2: {
-      
+      cardName: "Niyari"
     }
   }
 
