@@ -17,7 +17,9 @@ function App() {
     user2: {
       cardName: "Niyari",
       description: "Niyari the light of the dark"
-    }
+    },
+
+    user3: 
   }
 
   return (
