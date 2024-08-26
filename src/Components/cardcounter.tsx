@@ -8,6 +8,9 @@ function Cardcounter(props) {
                     <div className="card-title">
                     {props.cardTitle}
                     </div>
+                    <div className="card-text">
+                    {props.cardText}
+                    </div>
                 </div>
             </div>
         </>
