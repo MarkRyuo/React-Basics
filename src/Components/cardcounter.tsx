@@ -11,7 +11,7 @@ function Cardcounter() {
                     <div className="card-text">
                     <p>Count: 0</p>
                     <button type="button">Increase</button>
-                    
+                    <button type="button">Decrease</button>
                     </div>
                 </div>
             </div>
