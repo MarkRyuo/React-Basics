@@ -2,7 +2,9 @@
 function Cardcounter() {
 
     return (
-        
+        <>
+            
+        </>
     );
 }
 
