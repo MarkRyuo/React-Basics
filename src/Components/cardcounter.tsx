@@ -5,8 +5,8 @@ import React, {useState} from "react";
 
 function Cardcounter() {
 
-    const increment => () {
-        
+    const Increment => () {
+
     }
     const [count, setCount] = useState(0) ;
 
