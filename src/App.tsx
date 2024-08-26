@@ -10,7 +10,10 @@ function App() {
   return (
 
     <>
-      <div><HandlingEvents/></div>
+      <div>
+        <div><Card/></div>
+
+      </div>
     </>
 
   ) ;
