@@ -15,9 +15,13 @@ function App() {
             <div className="col-sm-4 col-md-4">
               <div><Card/></div>
             </div>
+            <div className="col-sm-4 col-md-4">
+              <div><Card/></div>
+            </div>
+            <div className="col-sm-4 col-md-4">
+              <div><Card/></div>
+            </div>
         </div>
-        <div><Card/></div>
-        <div><Card/></div>
       </div>
     </>
 
