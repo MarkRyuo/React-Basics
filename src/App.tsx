@@ -10,7 +10,7 @@ function App() {
   return (
 
     <>
-      <div>
+      <div className="conatiner-lg">
         <div><Card/></div>
 
       </div>
