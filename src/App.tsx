@@ -36,16 +36,16 @@ function App() {
           <Navbar {...Text.Logo1} />
         </div>
 
-        <div className="row">
-          <div className="col-md-4">
+        <div className="grid">
+          <div className="g.col-md-4">
             <Card {...Text.Card1}/>
           </div>
 
-          <div className="col">
+          <div className="g-col-md-4">
             <Card {...Text.Card2}/>
           </div>
 
-          <div className="col">
+          <div className="col-md-4">
             <Card {...Text.Card3}/>
           </div>
         </div>
