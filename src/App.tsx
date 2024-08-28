@@ -7,7 +7,7 @@ function App() {
 
   const Logos = {
 
-    logo1: {}
+    logo1: {
       LogoName: "Moda"
     },
   }
@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <div className="container"> 
-        <Navbar {"Moda"}/>
+        <Navbar {"}/>
       </div>
     </>
   );
