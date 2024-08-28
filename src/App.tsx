@@ -6,9 +6,9 @@ import Navbar from "./Components/Navbar";
 
 function App() {
 
-  const Logos = {
+  const Text = {
 
-    logo1: {
+    Logo1: {
       logoName: "Moda"
     },
   }
@@ -17,11 +17,19 @@ function App() {
   return (
     <>
       <div className="container">
-        <div>
-          <Navbar {...Logos.logo1} />
+        <div className="">
+          <Navbar {...Text.Logo1} />
         </div>
 
         <div className="row">
+          <div className="col">
+            <Card />
+          </div>
+
+          <div className="col">
+            <Card />
+          </div>
+
           <div className="col">
             <Card />
           </div>
