@@ -3,4 +3,12 @@
 
 // * Card Component 
 
-function Card
+function Card() {
+    
+    return (
+        <>
+        </>
+    ) ;
+}
+
+
