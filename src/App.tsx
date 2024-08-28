@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <div className="container-xl">
+      <div className="container">
         <Navbar/>
       </div>
     </>
