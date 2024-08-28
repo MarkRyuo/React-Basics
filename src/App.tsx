@@ -19,7 +19,7 @@ function App() {
         <Navbar {...Logos.logo1}/>
 
         <div className="row">
-            <div className="col"></div>
+            <div className="col"><Card/></div>
         </div>
       </div>
     </>
