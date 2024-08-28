@@ -35,7 +35,7 @@ function App() {
 
         <div className="row">
           <div className="col">
-            <Card />
+            <Card {...Text.Card1}/>
           </div>
 
           <div className="col">
