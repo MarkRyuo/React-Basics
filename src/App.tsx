@@ -1,3 +1,4 @@
+import Navbar from "./Components/Navbar";
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
   return (
     <>
       <div className="container-xl">
-          
+        <Navbar/>
       </div>
     </>
   );
