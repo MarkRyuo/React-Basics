@@ -13,7 +13,7 @@ function App() {
     },
 
     Card1 : {
-      
+
     }
   }
 
@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <div className="">
+        <div className="mb-4">
           <Navbar {...Text.Logo1} />
         </div>
 
