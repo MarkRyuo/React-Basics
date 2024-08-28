@@ -18,6 +18,10 @@ function App() {
 
     Card2 : {
       cardTitle: "React2"
+    },
+
+    Card3: {
+      cardTitle: "React3"
     }
   }
 
