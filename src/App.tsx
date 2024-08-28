@@ -41,7 +41,7 @@ function App() {
             <Card {...Text.Card1}/>
           </div>
 
-          <div className="g-col-6 g-col-md-3">
+          <div className="col-6 g-col-md-3">
             <Card {...Text.Card2}/>
           </div>
 
