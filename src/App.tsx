@@ -1,55 +1,57 @@
-// import Conditional from "./Components/conditional";
-// import ListGroup from "./Components/List_Group";
+import Card from "./Components/Card";
+import Navbar from "./Components/Navbar";
 
-// import HandlingEvents from "./Components/Handling_events";
-import Card from "./Components/card";
-import Cardcounter from "./Components/cardcounter";
 
-//* Spread Operator : {...} - it helps you access all the props in one go you can use the spread operator to unpack everythin inside the object quickly and easily
+// * The container is the main body 
 
 function App() {
 
-  const Users = {
-    
-    user1: {
-      cardName: "Moda",
-      description: "Moda is real"
+  const Text = {
+
+    Logo1: {
+      logoName: "Moda"
     },
 
-    user2: {
-      cardName: "Niyari",
-      description: "Niyari the light of the dark"
+    Card1 : {
+      cardTitle: "React 1",
+      cardDiscription: "React 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, debitis."
     },
 
-    user3: {
-      cardName: "Riyuo",
-      description: "The only one can do!"
+    Card2 : {
+      cardTitle: "React 2",
+      cardDiscription: "React 2 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur modi cum praesentium, suscipit minima eligendi."
+    },
+
+    Card3: {
+      cardTitle: "React 3",
+      cardDiscription: "React 3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem eos aperiam commodi eaque ab totam labore"
     }
   }
 
+  
   return (
-
     <>
-      <div className="container-lg">
-        <div className="row g-1">
-            <div className="col-sm-4 col-md-4">
-              <div><Card {...Users.user1}/></div>
-            </div>
-            <div className="col-sm-4 col-md-4">
-              <div><Card {...Users.user2}/></div>
-            </div>
-            <div className="col-sm-4 col-md-4">
-              <div><Card {...Users.user3}/></div>
-            </div>
+      <div className="container">
+        <div className="mb-4">
+          <Navbar {...Text.Logo1} />
         </div>
 
-        <div>
-          <Cardcounter/>
+        <div className="g-2 row justify-content-center">
+          <div className="mb-2 col-sm-12 col-md-4">
+            <Card {...Text.Card1}/>
+          </div>
+
+          <div className="mb-2 col-sm-12 col-md-4">
+            <Card {...Text.Card2}/>
+          </div>
+
+          <div className="mb-2 col-sm-12 col-md-4">
+            <Card {...Text.Card3}/>
+          </div>
         </div>
       </div>
     </>
-
-  ) ;
+  );
 }
 
 export default App ;
