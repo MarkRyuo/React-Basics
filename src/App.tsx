@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <div className="container"> 
-        <Navbar {"}/>
+        <Navbar {...Logos.logo1}/>
       </div>
     </>
   );
