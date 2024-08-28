@@ -13,15 +13,15 @@ function App() {
     },
 
     Card1 : {
-      cardTitle: "React1"
+      cardTitle: "React 1"
     },
 
     Card2 : {
-      cardTitle: "React2"
+      cardTitle: "React 2"
     },
 
     Card3: {
-      cardTitle: "React3"
+      cardTitle: "React 3"
     }
   }
 
