@@ -18,7 +18,8 @@ function App() {
     },
 
     Card2 : {
-      cardTitle: "React 2"
+      cardTitle: "React 2",
+      cardDiscription: "React 2 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur modi cum praesentium, suscipit minima eligendi."
     },
 
     Card3: {
