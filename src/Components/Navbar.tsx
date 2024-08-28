@@ -2,6 +2,7 @@
 
 function Navbar() {
     return (
-        ;
+        <>
+        </>
     ) ;
 }
