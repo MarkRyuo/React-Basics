@@ -43,7 +43,7 @@ function App() {
           </div>
 
           <div className="col">
-            <Card />
+            <Card {...Text.Card3}/>
           </div>
         </div>
       </div>
