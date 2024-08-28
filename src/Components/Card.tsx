@@ -5,6 +5,7 @@
 
 interface Cardprops {
     cardTitle: string ;
+    cardDiscription: string ;
 }
 
 function Card(props: Cardprops) {
