@@ -1,6 +1,10 @@
 
 
+//* Use props to change 
+
 function Navbar() {
+    
+
     return (
         <>
             <nav className="navbar bg-body-tertiary">
