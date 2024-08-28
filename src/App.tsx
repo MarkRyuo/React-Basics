@@ -36,16 +36,16 @@ function App() {
           <Navbar {...Text.Logo1} />
         </div>
 
-        <div className="row text-center">
-          <div className="col-sm-6 col-md-4">
+        <div className="row justify-content-center">
+          <div className="mb-2 col-sm-12 col-md-4">
             <Card {...Text.Card1}/>
           </div>
 
-          <div className="col-sm-6 col-md-4">
+          <div className="mb-2 col-sm-12 col-md-4">
             <Card {...Text.Card2}/>
           </div>
 
-          <div className="col-sm-6 col-md-4">
+          <div className="mb-2 col-sm-12 col-md-4">
             <Card {...Text.Card3}/>
           </div>
         </div>
