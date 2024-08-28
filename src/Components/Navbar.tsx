@@ -2,6 +2,11 @@
 
 //* Use props to change 
 
+interface Navbarprops {
+    
+}
+
+
 function Navbar() {
     
 
