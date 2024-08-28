@@ -37,15 +37,15 @@ function App() {
         </div>
 
         <div className="row text-center">
-          <div className="col-6 col-md-3">
+          <div className="col-sm-6 col-md-4">
             <Card {...Text.Card1}/>
           </div>
 
-          <div className="col-6 col-md-3">
+          <div className="col-sm-6 col-md-4">
             <Card {...Text.Card2}/>
           </div>
 
-          <div className="col-6 g-col-md-3">
+          <div className="col-sm-6 col-md-4">
             <Card {...Text.Card3}/>
           </div>
         </div>
