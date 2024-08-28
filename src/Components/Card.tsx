@@ -4,7 +4,7 @@
 // * Card Component 
 
 interface Cardprops {
-    cardTitle: 
+    cardTitle: string ;
 }
 
 function Card(props: Cardprops) {

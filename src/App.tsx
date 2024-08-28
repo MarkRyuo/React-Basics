@@ -13,7 +13,11 @@ function App() {
     },
 
     Card1 : {
+      cardTitle: "React1"
+    },
 
+    Card2 : {
+      Card
     }
   }
 
