@@ -5,12 +5,11 @@ import Navbar from "./Components/Navbar";
 
 function App() {
 
-  const Logoname = "Moda" ;
-
+  
   return (
     <>
       <div className="container"> 
-        <Navbar {}/>
+        <Navbar {"Moda"}/>
       </div>
     </>
   );
