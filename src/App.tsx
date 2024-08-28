@@ -24,6 +24,7 @@ function App() {
 
     Card3: {
       cardTitle: "React 3",
+      cardDiscription: "React 3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem eos aperiam commodi eaque ab totam labore, dolore consequatur earum porro nobis, sequi nesciunt, neque mollitia?"
     }
   }
 
