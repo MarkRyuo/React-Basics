@@ -16,11 +16,15 @@ function App() {
   
   return (
     <>
-      <div className="container"> 
-        <Navbar {...Logos.logo1}/>
+      <div className="container">
+        <div>
+          <Navbar {...Logos.logo1} />
+        </div>
 
         <div className="row">
-            <div className="col"><Card/></div>
+          <div className="col">
+            <Card />
+          </div>
         </div>
       </div>
     </>
