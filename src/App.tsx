@@ -17,7 +17,7 @@ function App() {
     },
 
     Card2 : {
-      Card
+      cardTitle: "React2"
     }
   }
 
