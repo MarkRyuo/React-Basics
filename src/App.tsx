@@ -5,12 +5,14 @@ function App() {
   return (
     <>
       <div className="container">
-          <div className="row">
-            <div className="col-12 col-sm-6 col-md-4 col-lg-3">Column</div>
-            <div className="col-12 col-sm-6 col-md-4 col-lg-3">Column</div>
-            <div className="col-12 col-sm-6 col-md-4 col-lg-3">Column</div>
-            <div className="col-12 col-sm-6 col-md-4 col-lg-3">Column</div>
-          </div>
+          <nav class="navbar bg-body-tertiary">
+          <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+      <img src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+      Bootstrap
+    </a>
+  </div>
+</nav>
         </div>
     </>
   );
