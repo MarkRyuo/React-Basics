@@ -17,7 +17,7 @@ function Card(props: Cardprops) {
                 <div className="card-body">
                     <h5 className="card-title">{props.cardTitle}</h5>
                     <p className="card-text">{props.cardDiscription}</p>
-                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                    <a href="#" className="btn btn-success">Go somewhere</a>
                 </div>
             </div>
         </>

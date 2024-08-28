@@ -37,7 +37,7 @@ function App() {
         </div>
 
         <div className="row">
-          <div className="col">
+          <div className="col-md-4">
             <Card {...Text.Card1}/>
           </div>
 
