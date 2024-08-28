@@ -11,6 +11,10 @@ function App() {
     Logo1: {
       logoName: "Moda"
     },
+
+    Card1 : {
+      
+    }
   }
 
   
