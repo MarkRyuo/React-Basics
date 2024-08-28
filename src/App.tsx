@@ -1,11 +1,3 @@
-// import Conditional from "./Components/conditional";
-// import ListGroup from "./Components/List_Group";
-
-// import HandlingEvents from "./Components/Handling_events";
-import Card from "./Components/card";
-import Cardcounter from "./Components/cardcounter";
-
-//* Spread Operator : {...} - it helps you access all the props in one go you can use the spread operator to unpack everythin inside the object quickly and easily
 
 function App() {
 
