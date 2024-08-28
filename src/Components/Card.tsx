@@ -12,7 +12,7 @@ function Card(props: Cardprops) {
     
     return (
         <>
-            <div className="card" style={{width: "18rem"}}>
+            <div className="card" style={{width: "25rem"}}>
                 <img src="/src/assets/react.svg" className="card-img-top" alt="..."/>
                 <div className="card-body ">
                     <h5 className="card-title">{props.cardTitle}</h5>

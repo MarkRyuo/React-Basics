@@ -36,7 +36,7 @@ function App() {
           <Navbar {...Text.Logo1} />
         </div>
 
-        <div className="row justify-content-center">
+        <div className="g-2 row justify-content-center">
           <div className="mb-2 col-sm-12 col-md-4">
             <Card {...Text.Card1}/>
           </div>
