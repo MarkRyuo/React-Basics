@@ -8,7 +8,7 @@ function App() {
   const Logos = {
 
     logo1: {
-      LogoName: "Moda"
+      logoName: "Moda"
     },
   }
 
