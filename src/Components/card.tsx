@@ -8,7 +8,7 @@ interface CardProps{
     description: string ;
 }
 
-function Card(props){
+function Card(props: CardProps){
     return (
         <>
             <div className="card" style={{width: "20rem"}}>
