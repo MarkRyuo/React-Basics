@@ -37,7 +37,7 @@ function App() {
         </div>
 
         <div className="grid">
-          <div className="g.col-md-4">
+          <div className="g-col-md-4">
             <Card {...Text.Card1}/>
           </div>
 
@@ -45,7 +45,7 @@ function App() {
             <Card {...Text.Card2}/>
           </div>
 
-          <div className="col-md-4">
+          <div className="g-col-md-4">
             <Card {...Text.Card3}/>
           </div>
         </div>
