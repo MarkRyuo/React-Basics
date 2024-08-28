@@ -23,7 +23,7 @@ function App() {
     },
 
     Card3: {
-      cardTitle: "React 3"
+      cardTitle: "React 3",
     }
   }
 
