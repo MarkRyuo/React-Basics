@@ -1,6 +1,6 @@
 
 interface Cardsprops {
-
+    CardTitle : string ;
 }
 
 const Cards = (props : Cardsprops) => {
