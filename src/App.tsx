@@ -5,6 +5,10 @@ import Cards from './Components/card';
 function App() {
 
   const Text {
+
+    Card1 : {
+      CardTitle : "Moda"
+    }
     
   }
 
@@ -12,7 +16,7 @@ function App() {
   return (
     <>
       <div>
-        <Cards/>
+        <Cards {...Text.Card1}/>
       </div>
     </>
   );
