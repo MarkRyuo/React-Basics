@@ -4,11 +4,13 @@ import Cards from './Components/card';
 
 function App() {
 
-  const Text {
+  const Text = {
 
     Card1 : {
       CardTitle : "Moda"
-    }
+    }, 
+
+    
     
   }
 
