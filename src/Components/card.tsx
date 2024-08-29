@@ -7,7 +7,9 @@ interface Cardsprops {
 
 const Cards = (props : Cardsprops) => {
 
-    
+    export const CardImages = {
+        
+    }
 
     return (
         <>
