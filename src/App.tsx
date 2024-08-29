@@ -25,11 +25,11 @@ function App() {
             <Cards {...Text.Card1} />
           </div>
 
-          <div className="col-12">
+          <div className="col-12 col-md-6">
             <Cards {...Text.Card1} />
           </div>
 
-          <div className="col-12">
+          <div className="col-12 col-md-3">
             <Cards {...Text.Card1} />
           </div>
         </div>
