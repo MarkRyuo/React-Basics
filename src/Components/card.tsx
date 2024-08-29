@@ -2,8 +2,11 @@
 
 const Cards = () => {
 
-    return () ;
-    
+    return (
+        <>
+        </>
+    ) ;
+
 }
 
 export default Cards ;
