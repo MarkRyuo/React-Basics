@@ -19,7 +19,7 @@ function App() {
   
   return (
     <>
-      <div>
+      <div className="container-fluid">
         <Cards {...Text.Card1}/>
       </div>
     </>
