@@ -21,15 +21,15 @@ function App() {
     <>
       <div className="container-fluid">
         <div className="row">
-          <div className="col">
+          <div className="col-12">
             <Cards {...Text.Card1} />
           </div>
 
-          <div className="col">
+          <div className="col-12">
             <Cards {...Text.Card1} />
           </div>
 
-          <div className="col">
+          <div className="col-12">
             <Cards {...Text.Card1} />
           </div>
         </div>
