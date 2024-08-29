@@ -16,6 +16,12 @@ function App() {
       buttonText: "Watch Video",
       imageSrc: "/src/assets/download (4).jpg",
     },
+
+    Card3: {
+      CardTitle: "Riyuo",
+      buttonText: "Watch Video",
+      imageSrc: "/src/assets/download (4).jpg",
+    },
   };
 
   
