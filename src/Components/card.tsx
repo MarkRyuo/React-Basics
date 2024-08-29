@@ -11,9 +11,8 @@ const Cards = (props : Cardsprops) => {
 
             <div>
                 <div>
-                    
+                    <p className="h1">{props.CardTitle}</p>
                 </div>
-                <p className="h1">{props.CardTitle}</p>
             </div>
 
         </>
