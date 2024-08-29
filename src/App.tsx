@@ -1,5 +1,4 @@
-import Card from "./Components/Card";
-import Navbar from "./Components/Navbar";
+
 
 
 // * The container is the main body 
