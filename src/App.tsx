@@ -5,18 +5,18 @@ import Cards from './Components/card';
 function App() {
 
   const Text = {
-
-    Card1 : {
-      CardTitle : "Moda",
+    Card1: {
+      CardTitle: "Moda",
       buttonText: "Watch Video",
-      imageSrc: "/src/assets/girldenji.jpg"
-    }, 
+      imageSrc: "/src/assets/girldenji.jpg",
+    },
 
-
-    
-
-    
-  }
+    Card2: {
+      CardTitle: "Moda",
+      buttonText: "Watch Video",
+      imageSrc: "/src/assets/girldenji.jpg",
+    },
+  };
 
   
   return (
