@@ -4,6 +4,9 @@ import Cards from './Components/card';
 
 function App() {
 
+  const Text {
+    
+  }
 
   
   return (
