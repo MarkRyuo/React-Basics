@@ -2,7 +2,7 @@
 
 interface Cardsprops {
     CardTitle: string ;
-    button: string ;
+    buttonText: string ;
 }
 
 const Cards = (props : Cardsprops) => {
