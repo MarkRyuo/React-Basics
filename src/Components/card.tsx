@@ -1,7 +1,8 @@
 
 
 interface Cardsprops {
-    CardTitle : string ;
+    CardTitle: string ;
+    button:
 }
 
 const Cards = (props : Cardsprops) => {
@@ -12,7 +13,7 @@ const Cards = (props : Cardsprops) => {
             <div>
                 <div>
                     <p className="h1">{props.CardTitle}</p>
-                    <button type="button" className=""></button>
+                    <button type="button" className="btn btn-success"></button>
                 </div>
             </div>
 
