@@ -7,7 +7,8 @@ function App() {
   const Text = {
 
     Card1 : {
-      CardTitle : "Moda"
+      CardTitle : "Moda",
+      buttonText: "Watch Video"
     }, 
 
     
