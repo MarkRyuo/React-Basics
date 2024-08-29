@@ -18,7 +18,7 @@ function App() {
     },
 
     Card3: {
-      CardTitle: "Riyuo",
+      CardTitle: "Niyari",
       buttonText: "Watch Video",
       imageSrc: "/src/assets/111779078_p0_master1200.jpg",
     },
