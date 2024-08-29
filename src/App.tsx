@@ -14,7 +14,7 @@ function App() {
     Card2: {
       CardTitle: "Moda",
       buttonText: "Watch Video",
-      imageSrc: "/src/assets/girldenji.jpg",
+      imageSrc: "",
     },
   };
 
