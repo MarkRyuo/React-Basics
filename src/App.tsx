@@ -24,6 +24,14 @@ function App() {
           <div className="col">
             <Cards {...Text.Card1} />
           </div>
+
+          <div className="col">
+            <Cards {...Text.Card1} />
+          </div>
+
+          <div className="col">
+            <Cards {...Text.Card1} />
+          </div>
         </div>
       </div>
     </>
