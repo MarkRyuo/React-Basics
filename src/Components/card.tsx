@@ -9,7 +9,7 @@ const Cards = (props : Cardsprops) => {
         <>
 
             <div>
-                <p className=""></p>
+                <p className="h1">{props.CardTitle}</p>
             </div>
 
         </>
