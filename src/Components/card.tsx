@@ -6,8 +6,6 @@ interface Cardsprops {
 }
 
 export const Cards = (props : Cardsprops) => {
-    imgsrc, 
-    
     
 
     return (
