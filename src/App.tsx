@@ -38,7 +38,7 @@ function App() {
           </div>
 
           <div className="col-12 col-md-3 col-lg-4">
-            <Cards {...Text.Card1} />
+            <Cards {...Text.Card3} />
           </div>
         </div>
       </div>
