@@ -1,10 +1,13 @@
 
+interface Cardsprops {
+    
+}
 
 const Cards = () => {
 
     return (
         <>
-        
+
         </>
     ) ;
 
