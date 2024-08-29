@@ -6,27 +6,6 @@ import Navbar from "./Components/Navbar";
 
 function App() {
 
-  const Text = {
-
-    Logo1: {
-      logoName: "Moda"
-    },
-
-    Card1 : {
-      cardTitle: "React 1",
-      cardDiscription: "React 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, debitis."
-    },
-
-    Card2 : {
-      cardTitle: "React 2",
-      cardDiscription: "React 2 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur modi cum praesentium, suscipit minima eligendi."
-    },
-
-    Card3: {
-      cardTitle: "React 3",
-      cardDiscription: "React 3 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem eos aperiam commodi eaque ab totam labore"
-    }
-  }
 
   
   return (
