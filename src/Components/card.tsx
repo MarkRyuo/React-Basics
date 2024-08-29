@@ -1,12 +1,16 @@
 
 interface Cardsprops {
-    
+
 }
 
-const Cards = () => {
+const Cards = (props : Cardsprops) => {
 
     return (
         <>
+
+            <div>
+                
+            </div>
 
         </>
     ) ;
