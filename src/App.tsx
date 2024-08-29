@@ -23,8 +23,6 @@ function App() {
         <div className="row">
           <div className="col">
             <Cards {...Text.Card1} />
-            <Cards {...Text.Card1} />
-            <Cards {...Text.Card1} />
           </div>
         </div>
       </div>
