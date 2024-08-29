@@ -20,6 +20,11 @@ function App() {
   return (
     <>
       <div className="container-fluid">
+        <div className='row'>
+          <div className='col'>
+
+          </div>
+        </div>
         <Cards {...Text.Card1}/>
       </div>
     </>
