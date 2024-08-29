@@ -8,10 +8,11 @@ function App() {
 
     Card1 : {
       CardTitle : "Moda",
-      buttonText: "Watch Video"
+      buttonText: "Watch Video",
+      imageSrc: "/src/assets/girldenji.jpg"
     }, 
 
-    
+
     
 
     
