@@ -12,7 +12,7 @@ function App() {
     },
 
     Card2: {
-      CardTitle: "Moda",
+      CardTitle: "Riyuo",
       buttonText: "Watch Video",
       imageSrc: "/src/assets/download (4).jpg",
     },
