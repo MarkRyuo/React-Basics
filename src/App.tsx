@@ -28,7 +28,7 @@ function App() {
   return (
     <>
       <div className="container-fluid">
-        <div className="row">
+        <div className="row text-center ">
           <div className="col-12 col-md-3 col-lg-4">
             <Cards {...Text.Card1} />
           </div>
