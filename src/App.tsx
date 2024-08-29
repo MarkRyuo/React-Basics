@@ -14,7 +14,7 @@ function App() {
     Card2: {
       CardTitle: "Moda",
       buttonText: "Watch Video",
-      imageSrc: "",
+      imageSrc: "/src/assets/download (4).jpg",
     },
   };
 
