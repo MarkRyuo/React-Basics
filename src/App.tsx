@@ -22,10 +22,9 @@ function App() {
       <div className="container-fluid">
         <div className='row'>
           <div className='col'>
-
+              <Cards {...Text.Card1}/>
           </div>
         </div>
-        <Cards {...Text.Card1}/>
       </div>
     </>
   );
