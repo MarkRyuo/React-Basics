@@ -31,7 +31,7 @@ const App = () => {
   return (
     <>
       <div className="container-fluid">
-        <div className="row">
+        <div className="row text-center ">
           <div className="col-12 col-md-5 col-lg-3">
             <Cards {...Text.Card1}/>
           </div>
