@@ -10,7 +10,7 @@ interface Cardsprops {
 }
 
 
-const Cards = (props : ) => {
+const Cards = (props : Cardsprops ) => {
 
     return (
 
