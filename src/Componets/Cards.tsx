@@ -4,9 +4,9 @@
 
 
 interface Cardsprops {
-    Cardimage: string ;
+    Cardimg: string ;
     CardTitle: string ;
-    CardDiscription
+    CardDiscr : string ;
 }
 
 
