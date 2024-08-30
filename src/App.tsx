@@ -21,7 +21,7 @@ const App = () => {
 
     Card3: {
       CardImg: "/src/assets/Card3.jpg",
-      CardTitle: "",
+      CardTitle: "Premium",
       CardDiscr: "",
       CardBtn: "",
     },
