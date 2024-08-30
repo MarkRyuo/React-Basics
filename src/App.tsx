@@ -8,7 +8,7 @@ const App = () => {
     Card1: {
       CardImg: "/src/assets/Card1.jpg",
       CardTitle: "Normal",
-      CardDiscr: "",
+      CardDiscr: "$0",
       CardBtn: "",
     },
 
