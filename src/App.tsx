@@ -9,7 +9,7 @@ const App = () => {
       CardImg: "/src/assets/Card1.jpg",
       CardTitle: "Normal",
       CardDiscr: "$0",
-      CardBtn: "Buy",
+      CardBtn: "Free",
     },
 
     Card2: {
@@ -30,16 +30,16 @@ const App = () => {
 
   return (
     <>
-      <div className="container-xl">
+      <div className="container-lg mt-4">
         <div className="row text-center justify-content-center align-items-center">
           <div className="col-12 col-md-6 col-lg-3">
-            <Cards {...Text.Card1}/>
+            <Cards {...Text.Card1} />
           </div>
           <div className="col-12 col-md-3 col-lg-5">
-            <Cards {...Text.Card2}/>
+            <Cards {...Text.Card2} />
           </div>
-          <div className="col-12 col-md-3 col-lg-3">
-            <Cards {...Text.Card3}/>
+          <div className="col-12 col-md-3 col-lg-4">
+            <Cards {...Text.Card3} />
           </div>
         </div>
       </div>
