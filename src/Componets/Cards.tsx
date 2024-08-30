@@ -4,7 +4,7 @@
 
 
 interface Cardsprops {
-    Cardimg: string ;
+    CardImg: string ;
     CardTitle: string ;
     CardDiscr : string ;
 }
