@@ -31,7 +31,7 @@ const App = () => {
   return (
     <>
       <div className="container-xl">
-        <div className="row text-center justify-content-center">
+        <div className="row text-center justify-content-center align-items-center">
           <div className="col-12 col-md-6 col-lg-3">
             <Cards {...Text.Card1}/>
           </div>
