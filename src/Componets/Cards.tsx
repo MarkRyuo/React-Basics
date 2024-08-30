@@ -20,7 +20,7 @@ const Cards = (props : Cardsprops ) => {
 
         <>
 
-            <div className="">
+            <div className="" style={{border: "solid red"}}>
                 <div className="">
                     <img src={props.CardImg} alt="Error Img" />
                     <p className="h1">{props.CardTitle}</p>
