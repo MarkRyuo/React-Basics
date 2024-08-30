@@ -3,6 +3,9 @@
 //* Image , Title, paragraph, button 
 
 
+interface Cardsprops {
+    
+}
 
 
 const Cards = (props : ) => {
