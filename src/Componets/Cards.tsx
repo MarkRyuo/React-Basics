@@ -1,7 +1,11 @@
 
 
+//* Image , Title, paragraph, button 
 
-const Cards = () => {
+
+
+
+const Cards = (props : ) => {
 
     return (
 
@@ -11,4 +15,4 @@ const Cards = () => {
     ) ;
 }
 
-export 
+export default Cards ;
