@@ -4,7 +4,7 @@
 
 
 interface Cardsprops {
-    
+    Cardimage: string ;
 }
 
 
