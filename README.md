@@ -1,7 +1,7 @@
 # React with Vite 
 
-## Updates 
 
+Updates: 
 ### V1.3 Latest
 
     
@@ -9,4 +9,4 @@
     
     - V1 
 
-    - Main Copy Latest 
+    - Main Empty
