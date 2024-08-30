@@ -22,8 +22,8 @@ const Cards = (props : Cardsprops ) => {
 
             <div className="row">
                 <div className="col-12 col-md-4 col-lg-3">
-                    <img src="" alt="Error Img" />
-                    <p className="h1">{props.}</p>
+                    <img src={props.CardImg} alt="Error Img" />
+                    <p className="h1">{props.CardTitle}</p>
                     <p className="lead"></p>
                 </div>
                 <div className="col-12 col-md-4 col-lg-6">
