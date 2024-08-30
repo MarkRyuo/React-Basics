@@ -6,7 +6,7 @@ const App = () => {
 
   const Text = {
     Card1: {
-      CardImg: "",
+      CardImg: "/src/assets/Card1.jpg",
       CardTitle: "",
       CardDiscr: "",
       CardBtn: "",
