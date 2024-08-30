@@ -3,16 +3,16 @@ import Cards from "./Components/Cards";
 // * The container is the main body
 
 const App = () => {
-  const Text = {
-    Card1: {
-      CardImg: "/src/assets/Card1.jpg",
-      CardTitle: "Basic",
-      CardDiscr: "$100",
-      CardBtn: "Buy",
+    const Text = {
+        Card1: {
+            CardImg: "/src/assets/Card1.jpg",
+            CardTitle: "Basic",
+            CardDiscr: "$100",
+            CardBtn: "Buy",
     },
 
     Card2: {
-      CardImg: "/src/assets/Card2.jpg",
+        CardImg: "/src/assets/Card2.jpg",
       CardTitle: "Premium",
       CardDiscr: "$700",
       CardBtn: "Credit",
