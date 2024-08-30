@@ -27,14 +27,14 @@ const Cards = (props : Cardsprops ) => {
                     <p className="lead">{props.CardDiscr}</p>
                 </div>
                 <div className="col-12 col-md-4 col-lg-6">
-                    <img src="" alt="Error Img" />
+                    <img src={props.CardDiscr} alt="Error Img" />
                     <p className="h1">{props.CardTitle}</p>
                     <p className="lead">{props.CardDiscr}</p>
                 </div>
                 <div className="col-12 col-md-4 col-lg-3">
                     <img src="" alt="Error Img" />
                     <p className="h1">{props.CardTitle}</p>
-                    <p className="lead">{props.}</p>
+                    <p className="lead">{props.CardDiscr}</p>
                 </div>
             </div>
         
