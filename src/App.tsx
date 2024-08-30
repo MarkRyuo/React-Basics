@@ -1,4 +1,4 @@
-import Cards from './Componets/Cards'
+import Cards from './Components/Cards'
 
 // * The container is the main body 
 
