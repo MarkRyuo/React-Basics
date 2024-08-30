@@ -25,7 +25,7 @@ const Cards = (props : Cardsprops ) => {
                     <img src={props.CardImg} alt="Error Img" />
                     <p className="h1">{props.CardTitle}</p>
                     <p className="lead">{props.CardDiscr}</p>
-                    <button className="btn"></button>
+                    <button className="btn btn-success"></button>
                 </div>
             </div>
         
