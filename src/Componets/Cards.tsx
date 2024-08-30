@@ -7,15 +7,19 @@ interface Cardsprops {
     CardImg: string ;
     CardTitle: string ;
     CardDiscr : string ;
-    CardBtn
+    CardBtn : string ;
 }
 
 
 const Cards = (props : Cardsprops ) => {
 
+    //* Row 
+    //* Col 
+
     return (
 
         <>
+
         
         </>
     ) ;
