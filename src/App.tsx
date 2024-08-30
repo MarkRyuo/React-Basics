@@ -14,14 +14,14 @@ const App = () => {
 
     Card2: {
       CardImg: "/src/assets/Card2.jpg",
-      CardTitle: "Super Premium",
+      CardTitle: "Premium",
       CardDiscr: "$600",
       CardBtn: "Credit",
     },
 
     Card3: {
       CardImg: "/src/assets/Card3.jpg",
-      CardTitle: "Premium",
+      CardTitle: "Standard",
       CardDiscr: "$200",
       CardBtn: "Credit",
     },
