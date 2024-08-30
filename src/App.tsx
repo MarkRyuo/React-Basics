@@ -11,11 +11,11 @@ const App = () => {
             CardBtn: "Buy",
     },
 
-    Card2: {
-        CardImg: "/src/assets/Card2.jpg",
-      CardTitle: "Premium",
-      CardDiscr: "$700",
-      CardBtn: "Credit",
+        Card2: {
+            CardImg: "/src/assets/Card2.jpg",
+            CardTitle: "Premium",
+            CardDiscr: "$700",
+            CardBtn: "Credit",
     },
 
     Card3: {
