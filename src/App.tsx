@@ -7,13 +7,13 @@ const App = () => {
   const Text = {
     Card1: {
       CardImg: "/src/assets/Card1.jpg",
-      CardTitle: "Normal",
-      CardDiscr: "$0",
-      CardBtn: "Free",
+      CardTitle: "Basic",
+      CardDiscr: "$50",
+      CardBtn: "Buy",
     },
 
     Card2: {
-      CardImg: "/src/assets/Card.jpg",
+      CardImg: "/src/assets/Card2.jpg",
       CardTitle: "Super Premium",
       CardDiscr: "$600",
       CardBtn: "Credit",
