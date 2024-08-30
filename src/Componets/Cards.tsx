@@ -33,7 +33,7 @@ const Cards = (props : Cardsprops ) => {
                 </div>
                 <div className="col-12 col-md-4 col-lg-3">
                     <img src="" alt="Error Img" />
-                    <p className="h1">{props.CardImg}</p>
+                    <p className="h1">{props.}</p>
                     <p className="lead"></p>
                 </div>
             </div>
