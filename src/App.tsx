@@ -5,6 +5,10 @@ import Cards from './Componets/Cards'
 const App = () => {
 
   const Text =  {
+
+    Card1 : {
+      
+    }
     
   }
 
