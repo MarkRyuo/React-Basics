@@ -1,11 +1,11 @@
 
 
-//* Image , Title, paragraph, button 
+//* Image , Title, description, button 
 
 
 interface Cardsprops {
     Cardimage: string ;
-    CardTitle
+    CardTitle: string ;
 }
 
 
