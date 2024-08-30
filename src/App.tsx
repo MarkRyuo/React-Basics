@@ -29,25 +29,22 @@ const App = () => {
 
 
   return (
-
     <>
-
       <div className="container-fluid">
-          <div className="row">
-            <div className="col-12 col-md-4 col-lg-5">
-              {...Text.Card1}
-            </div>
-            <div className="col-12 col-md-4 col-lg-4">
-              {}
-            </div>
-            <div className="col-12 col-md-4 col-lg-3">
-              {}
-            </div>
+        <div className="row">
+          <div className="col-12 col-md-4 col-lg-5">
+            <Cards />
           </div>
+          <div className="col-12 col-md-4 col-lg-4">
+            <Cards />
+          </div>
+          <div className="col-12 col-md-4 col-lg-3">
+            <Cards />
+          </div>
+        </div>
       </div>
-    
     </>
-  ) ;
+  );
 }
 
 export default App ;
