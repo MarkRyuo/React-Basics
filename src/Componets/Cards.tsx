@@ -21,9 +21,21 @@ const Cards = (props : Cardsprops ) => {
         <>
 
             <div className="row">
-                <div className="col"></div>
-                <div className="col"></div>
-                <div className="col"></div>
+                <div className="col">
+                    <img src="" alt="Error Img" />
+                    <p className="h1"></p>
+                    <p className="lead"></p>
+                </div>
+                <div className="col">
+                    <img src="" alt="Error Img" />
+                    <p className="h1"></p>
+                    <p className="lead"></p>
+                </div>
+                <div className="col">
+                    <img src="" alt="Error Img" />
+                    <p className="h1"></p>
+                    <p className="lead"></p>
+                </div>
             </div>
         
         </>
