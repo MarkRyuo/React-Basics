@@ -5,6 +5,7 @@
 
 interface Cardsprops {
     Cardimage: string ;
+    CardTitle
 }
 
 
