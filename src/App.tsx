@@ -8,21 +8,21 @@ const App = () => {
     Card1: {
       CardImg: "/src/assets/Card1.jpg",
       CardTitle: "Basic",
-      CardDiscr: "$50",
+      CardDiscr: "$100",
       CardBtn: "Buy",
     },
 
     Card2: {
       CardImg: "/src/assets/Card2.jpg",
       CardTitle: "Premium",
-      CardDiscr: "$600",
+      CardDiscr: "$700",
       CardBtn: "Credit",
     },
 
     Card3: {
       CardImg: "/src/assets/Card3.jpg",
       CardTitle: "Standard",
-      CardDiscr: "$200",
+      CardDiscr: "$400",
       CardBtn: "Credit",
     },
   };
