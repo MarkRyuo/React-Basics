@@ -8,7 +8,7 @@ const App = () => {
 
     <>
 
-      <div className=''>
+      <div className="container">
 
       </div>
     
