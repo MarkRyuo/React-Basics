@@ -5,21 +5,21 @@ import Cards from './Componets/Cards'
 const App = () => {
 
   const Text = {
-    Card: {
+    Card1: {
       CardImg: "",
       CardTitle: "",
       CardDiscr: "",
       CardBtn: "",
     },
 
-    Card: {
+    Card2: {
       CardImg: "",
       CardTitle: "",
       CardDiscr: "",
       CardBtn: "",
     },
 
-    Card: {
+    Card3: {
       CardImg: "",
       CardTitle: "",
       CardDiscr: "",
