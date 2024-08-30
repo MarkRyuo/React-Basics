@@ -20,6 +20,9 @@ const Cards = (props : Cardsprops ) => {
 
         <>
 
+            <div className="row">
+                
+            </div>
         
         </>
     ) ;
