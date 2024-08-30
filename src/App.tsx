@@ -5,33 +5,40 @@ import Cards from './Components/card';
 function App() {
 
   const Text = {
+    Card1: {
+      CardTitle: "Moda",
+      buttonText: "Watch Video",
+      imageSrc: "/src/assets/girldenji.jpg",
+    },
 
-    Card1 : {
-      CardTitle : "Moda",
-      buttonText: "Watch Video"
-    }, 
+    Card2: {
+      CardTitle: "Riyuo",
+      buttonText: "Watch Video",
+      imageSrc: "/src/assets/download (4).jpg",
+    },
 
-    
-    
-
-    
-  }
+    Card3: {
+      CardTitle: "Niyari",
+      buttonText: "Watch Video",
+      imageSrc: "/src/assets/111779078_p0_master1200.jpg",
+    },
+  };
 
   
   return (
     <>
       <div className="container-fluid">
-        <div className="row">
+        <div className="row text-center ">
           <div className="col-12 col-md-3 col-lg-4">
             <Cards {...Text.Card1} />
           </div>
 
           <div className="col-12 col-md-6 col-lg-4">
-            <Cards {...Text.Card1} />
+            <Cards {...Text.Card2} />
           </div>
 
           <div className="col-12 col-md-3 col-lg-4">
-            <Cards {...Text.Card1} />
+            <Cards {...Text.Card3} />
           </div>
         </div>
       </div>
