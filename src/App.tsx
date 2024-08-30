@@ -23,7 +23,7 @@ const App = () => {
       CardImg: "/src/assets/Card3.jpg",
       CardTitle: "Premium",
       CardDiscr: "$200",
-      CardBtn: "",
+      CardBtn: "Credit",
     },
   };
 
