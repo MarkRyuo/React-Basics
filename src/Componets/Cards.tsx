@@ -34,7 +34,7 @@ const Cards = (props : Cardsprops ) => {
                 <div className="col-12 col-md-4 col-lg-3">
                     <img src="" alt="Error Img" />
                     <p className="h1">{props.CardTitle}</p>
-                    <p className="lead"></p>
+                    <p className="lead">{props.}</p>
                 </div>
             </div>
         
