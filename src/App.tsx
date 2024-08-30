@@ -7,8 +7,8 @@ const App = () => {
   const Text =  {
 
     Card1 : {
-      
-    }
+
+    },
     
   }
 
