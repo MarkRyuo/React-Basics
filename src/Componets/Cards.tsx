@@ -20,8 +20,8 @@ const Cards = (props : Cardsprops ) => {
 
         <>
 
-            <div className="row">
-                <div className="col-12 col-md-4 col-lg-3">
+            <div className="">
+                <div className="">
                     <img src={props.CardImg} alt="Error Img" />
                     <p className="h1">{props.CardTitle}</p>
                     <p className="lead">{props.CardDiscr}</p>
