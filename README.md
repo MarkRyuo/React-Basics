@@ -8,6 +8,6 @@ Updates:
 
     - V1.2 Random
     
-    - V1 
+    - V1 Random Code
 
     - Main Empty
