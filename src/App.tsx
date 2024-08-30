@@ -18,11 +18,11 @@ const App = () => {
             CardBtn: "Credit",
     },
 
-    Card3: {
-      CardImg: "/src/assets/Card3.jpg",
-      CardTitle: "Standard",
-      CardDiscr: "$400",
-      CardBtn: "Credit",
+        Card3: {
+            CardImg: "/src/assets/Card3.jpg",
+            CardTitle: "Standard",
+            CardDiscr: "$400",
+            CardBtn: "Credit",
     },
   };
 
