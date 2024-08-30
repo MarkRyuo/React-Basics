@@ -7,6 +7,9 @@ const App = () => {
   const Text =  {
 
     Card1 : {
+      CardImg : "",
+      CardTitle: "",
+      CardDiscr: "", 
 
     },
     
