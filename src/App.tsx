@@ -20,7 +20,7 @@ const App = () => {
     },
 
     Card3: {
-      CardImg: "",
+      CardImg: "/src/assets/Card3.jpg",
       CardTitle: "",
       CardDiscr: "",
       CardBtn: "",
