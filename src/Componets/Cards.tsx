@@ -21,7 +21,9 @@ const Cards = (props : Cardsprops ) => {
         <>
 
             <div className="row">
-                
+                <div className="col"></div>
+                <div className="col"></div>
+                <div className="col"></div>
             </div>
         
         </>
