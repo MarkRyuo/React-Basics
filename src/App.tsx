@@ -4,16 +4,28 @@ import Cards from './Componets/Cards'
 
 const App = () => {
 
-  const Text =  {
-
-    Card1 : {
-      CardImg : "",
+  const Text = {
+    Card: {
+      CardImg: "",
       CardTitle: "",
-      CardDiscr: "", 
-      CardBtn: ""
+      CardDiscr: "",
+      CardBtn: "",
     },
-    
-  }
+
+    Card: {
+      CardImg: "",
+      CardTitle: "",
+      CardDiscr: "",
+      CardBtn: "",
+    },
+
+    Card: {
+      CardImg: "",
+      CardTitle: "",
+      CardDiscr: "",
+      CardBtn: "",
+    },
+  };
 
 
   return (
