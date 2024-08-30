@@ -35,7 +35,7 @@ const App = () => {
           <div className="col-12 col-md-6 col-lg-3">
             <Cards {...Text.Card1}/>
           </div>
-          <div className="col-12 col-md-3 col-lg-6">
+          <div className="col-12 col-md-3 col-lg-5">
             <Cards {...Text.Card2}/>
           </div>
           <div className="col-12 col-md-3 col-lg-3">
