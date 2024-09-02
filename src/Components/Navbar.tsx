@@ -13,13 +13,13 @@ const Navbar = () => {
                 <li className="nav-item">
                     <a
                         href="#tab1Id"
-                        class="nav-link active"
+                        className="nav-link active"
                         data-bs-toggle="tab"
                         aria-current="page"
                         >Active</a
                     >
                 </li>
-                <li class="nav-item dropdown">
+                <li className="nav-item dropdown">
                     <a
                         class="nav-link dropdown-toggle"
                         data-bs-toggle="dropdown"
@@ -66,5 +66,5 @@ const Navbar = () => {
     ) ;Name
 
 }
-
-export default Navbar ;
+NameclassName
+export default NameNavbar ;
