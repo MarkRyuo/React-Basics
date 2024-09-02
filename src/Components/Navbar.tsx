@@ -10,7 +10,7 @@ const Navbar = () => {
                 id="navId"
                 role="tablist"
             >
-                <li class="nav-item">
+                <li className="nav-item">
                     <a
                         href="#tab1Id"
                         class="nav-link active"
@@ -63,7 +63,7 @@ const Navbar = () => {
             </script>
             
         </>
-    ) ;
+    ) ;Name
 
 }
 
