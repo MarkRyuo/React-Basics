@@ -37,11 +37,11 @@ const Navbar = () => {
                     </div>
                 </li>
                 <li className="nav-item" role="presentation">
-                    <a href="#tab5Id" class="nav-link" data-bs-toggle="tab"
+                    <a href="#tab5Id" className="nav-link" data-bs-toggle="tab"
                         >Another link</a
                     >
                 </li>
-                <li class="nav-item" role="presentation">
+                <li className="nav-item" role="presentation">
                     <a href="#" class="nav-link disabled" data-bs-toggle="tab"
                         >Disabled</a
                     >
@@ -67,4 +67,5 @@ const Navbar = () => {
 NameclassName
 NameclassName}
 NameclassNaNameclassNameme
-export default NamNameclassNameeNavbar ;NameclassNNamecNameclassNamelassNameame
+
+export defaulNameclassNamet NamNameclassNameeNavbar ;NameclassNNamecNameclassNamelassNameame
