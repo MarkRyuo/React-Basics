@@ -21,7 +21,7 @@ const Navbar = () => {
                 </li>
                 <li className="nav-item dropdown">
                     <a
-                        class="nav-link dropdown-toggle"
+                        className="nav-link dropdown-toggle"
                         data-bs-toggle="dropdown"
                         href="#"
                         role="button"
@@ -67,4 +67,4 @@ const Navbar = () => {
 
 }
 NameclassName
-export default NameNavbar ;
+export default NameNavbar ;NameclassName
