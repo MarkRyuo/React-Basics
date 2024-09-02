@@ -1,4 +1,5 @@
 import Cards from "./Components/Cards";
+import Navbar from "./Components/Navbar";
 
 // * The container is the main body
 
@@ -29,6 +30,7 @@ const App = () => {
     return (
         <>
             <div className="container-lg mt-4">
+                <div><Navbar/></div>
                 <div className="row text-center justify-content-center align-items-center">
                 <div className="col-12 col-md-6 col-lg-3">
                     <Cards {...Text.Card1} />

@@ -2,7 +2,9 @@
 
 
 Updates: 
-### V1.4 Latest
+### V1.5 Latest
+
+    - V1.4 - A Card
 
     - V1.3 - Simple Card
 
