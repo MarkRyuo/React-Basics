@@ -1,9 +1,6 @@
 
 const Navbar = () => {
 
-    var triggerEl = document.querySelector("#navId a");
-          Namebootstrap.Tab.getInstance(triggerEl).show(); // Select tab by name
-
     return (
 
         <>
