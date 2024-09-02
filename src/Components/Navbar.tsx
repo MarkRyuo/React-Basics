@@ -42,7 +42,7 @@ const Navbar = () => {
                     >
                 </li>
                 <li className="nav-item" role="presentation">
-                    <a href="#" class="nav-link disabled" data-bs-toggle="tab"
+                    <a href="#" className="nav-link disabled" data-bs-toggle="tab"
                         >Disabled</a
                     >
                 </li>
