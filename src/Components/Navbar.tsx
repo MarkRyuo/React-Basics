@@ -48,9 +48,10 @@ const Navbar = () => {
                 </li>
             </ul>
             
-            <!-- Tab panes -->
-            < class="tab-content" id="myTabContent">
-                <div class="tab-pane fade show active" id="tab1Id" role="tabpanel">
+            {/* <!-- Tab panes --> */}
+
+                <div className="tab-content" id="myTabContent">
+                <div className="tab-pane fade show active" id="tab1Id" role="tabpanel">
                     
                 </div>
                 <div class="tab-pane fade" id="tab2Id" role="tabpanel"></div>
