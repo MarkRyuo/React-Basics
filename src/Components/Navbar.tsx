@@ -65,9 +65,6 @@ const Navbar = () => {
             </script>
             
         </>
-    ) ;Name
-NameclassName
-NameclassName}
-NameclassNaNameclassNameme
+    ) ;
 
-export defaulNameclassNamet NamNameclassNameeNavbar ;NameclassNNamecNameclassNamelassNameame
+export default 
