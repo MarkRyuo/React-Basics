@@ -29,7 +29,7 @@ const Navbar = () => {
                         aria-expanded="false"
                         >Dropdown</a
                     >
-                    <div class="dropdown-menu">
+                    <div className="dropdown-menu">
                         <a class="dropdown-item" href="#tab2Id">Action</a>
                         <a class="dropdown-item" href="#tab3Id">Another action</a>
                         <div class="dropdown-divider"></div>
@@ -67,4 +67,4 @@ const Navbar = () => {
 
 }
 NameclassName
-export default NameNavbar ;NameclassName
+export default NameNavbar ;NameclassNNameclassNameame
