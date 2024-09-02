@@ -59,10 +59,7 @@ const Navbar = () => {
                 <div className="tab-pane fade" id="tab2Id" role="tabpanel"></div>
                 <div className="tab-pane fade" id="tab3Id" role="tabpanel"></div>
                 <div className="tab-pane fade" id="tab4Id" role="tabpanel"></div>
-                <div className="tab-pane fade" id="tab5Id" role="tabpanel">
-            <script>
-                
-            </script>
+                <div className="tab-pane fade" id="tab5Id" role="tabpanel"></div>
             
         </>
     ) ;
