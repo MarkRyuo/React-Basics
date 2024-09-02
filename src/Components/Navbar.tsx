@@ -1,6 +1,8 @@
 
 const Navbar = () => {
 
+    var triggerEl = document.querySelector("#navId a");
+          Namebootstrap.Tab.getInstance(triggerEl).show(); // Select tab by name
 
     return (
 
@@ -57,10 +59,9 @@ const Navbar = () => {
                 <div className="tab-pane fade" id="tab2Id" role="tabpanel"></div>
                 <div className="tab-pane fade" id="tab3Id" role="tabpanel"></div>
                 <div className="tab-pane fade" id="tab4Id" role="tabpanel"></div>
-                <d className="tab-pane fade" id="tab5Id" role="tabpanel"></      <!-- (Optional) - Place this js code after initializing bootstrap.min.js or bootstrap.bundle.min.js -->
+                <div className="tab-pane fade" id="tab5Id" role="tabpanel">
             <script>
-                var triggerEl = document.querySelector("#navId a");
-          Name      bootstrap.Tab.getInstance(triggerEl).show(); // Select tab by name
+                
             </script>
             
         </>
