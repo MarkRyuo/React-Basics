@@ -4,6 +4,8 @@
 Updates: 
 ### V1.4 Latest
 
+    - V1.4 - A Card
+
     - V1.3 - Simple Card
 
     - V1.2 Random Code 
