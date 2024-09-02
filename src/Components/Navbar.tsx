@@ -30,7 +30,7 @@ const Navbar = () => {
                         >Dropdown</a
                     >
                     <div className="dropdown-menu">
-                        <a class="dropdown-item" href="#tab2Id">Action</a>
+                        <a className="dropdown-item" href="#tab2Id">Action</a>
                         <a class="dropdown-item" href="#tab3Id">Another action</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item" href="#tab4Id">Action</a>
@@ -64,7 +64,7 @@ const Navbar = () => {
             
         </>
     ) ;Name
-
+NameclassName
 }
 NameclassName
 export default NameNavbar ;NameclassNNameclassNameame
