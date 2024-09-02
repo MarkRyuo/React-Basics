@@ -32,8 +32,8 @@ const Navbar = () => {
                     <div className="dropdown-menu">
                         <a className="dropdown-item" href="#tab2Id">Action</a>
                         <a className="dropdown-item" href="#tab3Id">Another action</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#tab4Id">Action</a>
+                        <div className="dropdown-divider"></div>
+                        <a className="dropdown-item" href="#tab4Id">Action</a>
                     </div>
                 </li>
                 <li class="nav-item" role="presentation">
@@ -66,5 +66,5 @@ const Navbar = () => {
     ) ;Name
 NameclassName
 NameclassName}
-NameclassName
-export default NameNavbar ;NameclassNNameclassNameame
+NameclassNaNameclassNameme
+export default NamNameclassNameeNavbar ;NameclassNNameclassNameame
