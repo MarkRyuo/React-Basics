@@ -56,7 +56,7 @@ const Navbar = () => {
                 </div>
                 <div className="tab-pane fade" id="tab2Id" role="tabpanel"></div>
                 <div className="tab-pane fade" id="tab3Id" role="tabpanel"></div>
-                <div class="tab-pane fade" id="tab4Id" role="tabpanel"></div>
+                <div className="tab-pane fade" id="tab4Id" role="tabpanel"></div>
                 <d class="tab-pane fade" id="tab5Id" role="tabpanel"></      <!-- (Optional) - Place this js code after initializing bootstrap.min.js or bootstrap.bundle.min.js -->
             <script>
                 var triggerEl = document.querySelector("#navId a");
