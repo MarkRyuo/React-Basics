@@ -2,7 +2,8 @@
 
 export default function TodoList() {
     let todos = [
-        'Hello'
+        'Hello',
+        ''
     ]
     
     return (
