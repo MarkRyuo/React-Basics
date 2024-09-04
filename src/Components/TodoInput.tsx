@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Todoinput() {
+export default function TodoInput() {
   return (
     <div>
       
