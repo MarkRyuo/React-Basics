@@ -12,9 +12,9 @@ const App = () => {
     return (
         <main>
 
+            <TodoInput/>
             <TodoCards/>
             <TodoList/>
-            <TodoInput/>
 
         </main>
     );
