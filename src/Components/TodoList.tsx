@@ -8,10 +8,13 @@ export default function TodoList() {
     ]
     
     return (
-        <div>
+        <ul>
 
+            {todos.map((todo, todoIndex) => {
+                
+            })}
             
     
-        </div>
+        </u>
     ) ;
 }
