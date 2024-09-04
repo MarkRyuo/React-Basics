@@ -4,6 +4,7 @@
 
 import TodoCards from "./Components/TodoCards";
 import TodoInput from "./Components/TodoInput";
+import TodoList from "./Components/TodoList";
 
 const App = () => {
 
@@ -12,6 +13,7 @@ const App = () => {
         <main>
 
             <TodoCards/>
+            <TodoList/>
             <TodoInput/>
 
         </main>
