@@ -1,6 +1,10 @@
 
 
 
-.index-text {
+.input-text {
     color : red
+}
+
+button:hover {
+    background-color:cornflowerblue;
 }
