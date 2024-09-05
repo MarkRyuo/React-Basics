@@ -7,6 +7,8 @@ export default function TodoInput() {
           <input className="input-text" type="text" placeholder="Enter Todo......"/>
           <button type="button" onClick={() => {
             
+            return 
+
           }}>Add</button>
     </header>
   )
