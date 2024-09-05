@@ -10,7 +10,7 @@ export default function TodoList() {
     return (
         <ul>
 
-            {todos.map((todoo, todolists) => {
+            {todos.map((todoo, todoIndex) => {
 
                 return <h1 key={todolists}>{todoo}</h1>
             })}
