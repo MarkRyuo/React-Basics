@@ -9,6 +9,10 @@ export default function TodoList() {
     
     return (
         <ul>
+
+            {todos.map(() => {
+                
+            })}
     
         </ul>
     ) ;
