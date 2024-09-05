@@ -1,4 +1,13 @@
 
+* {
+    background-color:aliceblue;
+}
+
+
+:root {
+    --bgcolor-button: cornflowerblue;
+    --bgcolor-list: white ;
+}
 
 
 .input-text {
@@ -6,5 +15,20 @@
 }
 
 button:hover {
-    background-color:cornflowerblue;
+    background-color: var(--bgcolor-button);
+}
+
+.mainTodo {
+    margin-top: 10px;
+    /* border: solid 1px ;
+    border-radius: 10px; */
+    list-style: none;
+}
+
+.mainTodo li {
+    border-radius: 5px;
+    border: solid 1px ;
+    margin: 3px;
+    padding: 2px;
+    background-color: var(--bgcolor-list);
 }

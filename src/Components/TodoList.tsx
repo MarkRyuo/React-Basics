@@ -1,20 +1,25 @@
 
 
 export default function TodoList() {
-    let todos = [
+    const todos = [
         'Hi',
         'Hello',
         'World'
     ]
     
     return (
-        <ul>
+        <ul className="mainTodo">
 
-            {todos.map((todo, todoIndex) => {
-                
+            {todos.map((todoo, todoIndex) => {
+
+                return (
+                    <li key={todoIndex}>
+                        {todoo}
+                        <i className="fa-solid fa-pen-to-square"></i>
+                    </li>
+                );
             })}
-            
     
-        </u>
+        </ul>
     ) ;
 }
