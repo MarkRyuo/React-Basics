@@ -12,7 +12,9 @@ export default function TodoList() {
 
             {todos.map((todoo, todoIndex) => {
 
-                return <h1 key={todolists}>{todoo}</h1>
+                return (
+                    <h1 key={todoIndex}>{todoo}</h1>
+                )
             })}
     
         </ul>
