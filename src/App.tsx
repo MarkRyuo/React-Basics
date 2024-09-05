@@ -10,13 +10,13 @@ const App = () => {
 
 
     return (
-        <body>
+        <main>
 
             <TodoInput/>
             <TodoCards/>
             <TodoList/>
 
-        </body>
+        </main>
     );
 };
 

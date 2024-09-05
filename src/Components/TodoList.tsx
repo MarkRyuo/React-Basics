@@ -8,7 +8,7 @@ export default function TodoList() {
     ]
     
     return (
-        <ul className="main">
+        <ul className="mainTodo">
 
             {todos.map((todoo, todoIndex) => {
 
