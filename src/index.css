@@ -13,8 +13,12 @@ button:hover {
     margin-top: 10px;
     border: solid 1px ;
     border-radius: 10px;
+    list-style: none;
 }
 
-.main.ul {
+.main li {
+    border-radius: 10px;
     border: solid 1px ;
+    margin: 3px;
+    
 }
