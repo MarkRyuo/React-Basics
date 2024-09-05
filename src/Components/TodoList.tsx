@@ -10,9 +10,9 @@ export default function TodoList() {
     return (
         <ul>
 
-            {todos.map((todoo) => {
+            {todos.map((todoo, todolists) => {
 
-                return <h1>{todoo}</h1>
+                return <h1 key={todolists}>{todoo}</h1>
             })}
     
         </ul>
