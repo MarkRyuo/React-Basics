@@ -1,13 +1,11 @@
 
 
+
 :root {
     --bgcolor-button: cornflowerblue;
     --bgcolor-list: white ;
 }
 
-main {
-    background-color:darkgrey;
-}
 
 .input-text {
     color : red
@@ -19,8 +17,8 @@ button:hover {
 
 .mainTodo {
     margin-top: 10px;
-    border: solid 1px ;
-    border-radius: 10px;
+    /* border: solid 1px ;
+    border-radius: 10px; */
     list-style: none;
 }
 
