@@ -10,10 +10,9 @@ export default function TodoList() {
     return (
         <ul>
 
-            {todos.map((todoo, listodo) => {
-                return {
-                    
-                }
+            {todos.map((todoo) => {
+
+                return 
             })}
     
         </ul>
