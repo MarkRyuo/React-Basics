@@ -9,9 +9,7 @@ export default function TodoList() {
     
     return (
         <ul>
-
-            
     
-        </u>
+        </ul>
     ) ;
 }
