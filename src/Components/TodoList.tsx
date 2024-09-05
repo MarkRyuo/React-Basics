@@ -13,8 +13,11 @@ export default function TodoList() {
             {todos.map((todoo, todoIndex) => {
 
                 return (
-                    <li key={todoIndex}>{todoo}</li>
-                )
+                  <li key={todoIndex}>
+                    {todoo}
+                    <i class="fa-light fa-pen-to-square"></i>
+                  </li>
+                );
             })}
     
         </ul>
