@@ -26,5 +26,5 @@ button:hover {
     border: solid 1px ;
     margin: 3px;
     padding: 2px;
-    
+    background-color: var(--bgcolor-list);
 }
