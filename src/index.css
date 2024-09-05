@@ -14,14 +14,14 @@ button:hover {
     background-color: var(--bgcolor-button);
 }
 
-.main {
+.mainTodo {
     margin-top: 10px;
     border: solid 1px ;
     border-radius: 10px;
     list-style: none;
 }
 
-.main li {
+.mainTodo li {
     border-radius: 5px;
     border: solid 1px ;
     margin: 3px;
