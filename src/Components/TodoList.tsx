@@ -1,7 +1,7 @@
 
 
 export default function TodoList() {
-    let todos = [
+    const todos = [
         'Hi',
         'Hello',
         'World'
