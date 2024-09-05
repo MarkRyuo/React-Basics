@@ -12,7 +12,7 @@ export default function TodoList() {
 
             {todos.map((todoo) => {
 
-                return 
+                return <h1>{todoo}</h1>
             })}
     
         </ul>
