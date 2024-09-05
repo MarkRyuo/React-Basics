@@ -10,11 +10,6 @@ export default function TodoList() {
     return (
         <ul>
 
-            {todos.map((_todo, todwoIndex) => {
-                return {
-                    
-                }
-            })}
             
     
         </u>
