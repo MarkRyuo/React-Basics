@@ -2,8 +2,8 @@
 
 export default function TodoList() {
     const todos = [
-        'Take a nap!',
-        'Hello',
+        'Take a Nap!',
+        'Take a Walk',
         'World'
     ]
     
