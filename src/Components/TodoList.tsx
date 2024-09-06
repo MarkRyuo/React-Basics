@@ -16,7 +16,13 @@ export default function TodoList() {
                     <div>
 
                         <li key={todoIndex}>
-                            
+                            <div>
+                                {todoo}
+                            </div>
+
+                            <div>
+                                <button type="button" onClick={() => {}}><i className="fa-solid fa-pen-to-square"></i></button>
+                            </div>
                         </li>
 
                     </div>
