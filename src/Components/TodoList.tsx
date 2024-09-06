@@ -15,7 +15,7 @@ export default function TodoList() {
                 return (
                     <li key={todoIndex}>
                         {todoo}
-                        <i className="fa-solid fa-pen-to-square"></i>
+                        <button type="button"><i className="fa-solid fa-pen-to-square"></i></button>
                     </li>
                 );
             })}
