@@ -4,7 +4,7 @@ export default function TodoList() {
     const todos = [
         'Take a Nap!',
         'Take a Walk',
-        'World'
+        'Talk a Bath'
     ]
     
     return (
