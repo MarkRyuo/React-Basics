@@ -2,7 +2,7 @@
 
 export default function TodoList() {
     const todos = [
-        'Hi',
+        'Take a nap!',
         'Hello',
         'World'
     ]
