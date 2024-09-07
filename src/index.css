@@ -38,6 +38,7 @@ button:hover {
 
 .todoItem {
     display: flex;
+    justify-content: space-between;
 }
 
 .btn-icons i {

@@ -3,7 +3,7 @@ import TodoCards from "./TodoCards";
 
 export default function TodoList() {
     const todos = [
-        'Take a Nap!',
+        'Take a Nap! Take a Note',
         'Take a Walk',
         'Talk a Bath'
     ]
@@ -18,7 +18,7 @@ export default function TodoList() {
 
                         <TodoCards key={todoIndex}>
                             <p>{todoo}</p>
-                            
+
                         </TodoCards>
                     
                     </div>
