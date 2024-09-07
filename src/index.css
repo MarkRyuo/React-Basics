@@ -35,10 +35,11 @@ button:hover {
 
 /* * TodoCards Component */
 
-.btn-icons i {
-    margin: 2px;
-}
 
 .todoItem {
-    
+    display: flex;
+}
+
+.btn-icons i {
+    margin: 2px;
 }
