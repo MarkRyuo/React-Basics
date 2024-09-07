@@ -4,8 +4,8 @@ export default function TodoCards() {
 
     return (
         <>
-            <li>
-                
+            <li className="todoItem">
+
             </li>
         </>
     ) ;
