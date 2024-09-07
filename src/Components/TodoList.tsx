@@ -1,3 +1,4 @@
+import TodoCards from "./TodoCards";
 
 
 export default function TodoList() {
@@ -19,10 +20,7 @@ export default function TodoList() {
                             <div className="">
                                 {todoo}
                             </div>
-
-                            <div className="">
-                                <button type="button" onClick={() => {}}><i className="fa-solid fa-pen-to-square"></i></button>
-                            </div>
+                            <TodoCards></TodoCards>                        
                         </li>
 
                     </div>
