@@ -10,7 +10,9 @@ export default function TodoCards() {
                         <button type="button" onClick={() => {}}>
                             <i className="fa-solid fa-pen-to-square"></i>
                         </button>
-                        <button type="button" onClick={() => {}}><i className="fa-solid fa-pen-to-square"></i></button>
+                        <button type="button" onClick={() => {}}>
+                            <i className="fa-solid fa-pen-to-square"></i>
+                        </button>
                     </div>
                 </div>
 
