@@ -3,10 +3,10 @@ import TodoCards from "./TodoCards";
 
 export default function TodoList() {
     const todos = [
-      "Take a Nap! Take a Note, Take a Nap! Take a Note ",
-      "Take a Walk",
-      "Talk a Bath",
-    ];
+        'Take a Nap!',
+        'Take a Walk',
+        'Talk a Bath'
+    ]
     
     return (
         <ul className="mainTodo">
