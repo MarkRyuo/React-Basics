@@ -9,7 +9,6 @@ export default function TodoCards() {
                     <div className="btn-icons">
                             <i className="fa-solid fa-pen-to-square"></i>
                             <i className="fa-solid fa-trash"></i>
-                        </button>
                     </div>
                 </div>
 
