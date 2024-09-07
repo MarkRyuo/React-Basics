@@ -12,7 +12,7 @@ const App = () => {
     return (
         <main>
 
-            {/* <TodoInput/> */}
+            <TodoInput/>
             <TodoList/>
 
         </main>
