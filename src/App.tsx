@@ -13,7 +13,6 @@ const App = () => {
         <main>
 
             {/* <TodoInput/> */}
-            <TodoCards/>
             <TodoList/>
 
         </main>
