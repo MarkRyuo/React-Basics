@@ -1,10 +1,13 @@
 
 
-export default function TodoCards() {
+export default function TodoCards(props) {
+
+    const {children} = props
 
     return (
         <>
             <li className="todoItem">
+                {children}
                 <div className="actionContainer">
                     <div className="btn-icons">
                             <i className="fa-solid fa-pen-to-square"></i>
