@@ -18,9 +18,9 @@ export default function TodoList() {
 
                         <li key={todoIndex}>
                             <div className="">
-                                {todoo}
+                                {todoo} 
+                                <TodoCards/>
                             </div>
-                                       
                         </li>
 
                     </div>
