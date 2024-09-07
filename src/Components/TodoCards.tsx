@@ -1,8 +1,5 @@
 
 
-interface childs {
-    
-}
 
 
 export default function TodoCards(props) {
