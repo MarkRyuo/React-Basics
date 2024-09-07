@@ -1,5 +1,10 @@
 
 
+interface childs {
+    
+}
+
+
 export default function TodoCards(props) {
 
     const {children} = props
