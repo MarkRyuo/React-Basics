@@ -20,7 +20,7 @@ export default function TodoList() {
                             <div className="">
                                 {todoo}
                             </div>
-                            <TodoCards/>                       
+                                       
                         </li>
 
                     </div>
