@@ -6,7 +6,9 @@ export default function TodoCards() {
         <>
             <li className="todoItem">
                 <div className="actionContainer">
-                    <div></div>
+                    <div className="btn-logos">
+
+                    </div>
                 </div>
 
             </li>
