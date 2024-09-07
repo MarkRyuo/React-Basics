@@ -16,13 +16,10 @@ export default function TodoList() {
                 return (
                     <div>
 
-                        <li key={todoIndex}>
-                            <div className="">
-                                {todoo} 
-                                <TodoCards/>
-                            </div>
-                        </li>
-
+                        <TodoCards key={todoIndex}>
+                            
+                        </TodoCards>
+                    
                     </div>
                     
                 );
