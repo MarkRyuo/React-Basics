@@ -17,7 +17,7 @@ export default function TodoList() {
                     <div>
 
                         <TodoCards key={todoIndex}>
-                            <p>{}</p>
+                            <p>{todo}</p>
                         </TodoCards>
                     
                     </div>
