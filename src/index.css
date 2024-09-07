@@ -35,6 +35,6 @@ button:hover {
 
 /* * TodoCards Component */
 
-.btn-icons {
-    
+.btn-icons i {
+    margin: 2px;
 }
