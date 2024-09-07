@@ -6,8 +6,8 @@ export default function TodoCards() {
         <>
             <li className="todoItem">
                 <div className="actionContainer">
-                    <div className="btn-icon">
-
+                    <div className="btn-icons">
+                        <button type="button" onClick={() => {}}><i className="fa-solid fa-pen-to-square"></i></button>
                     </div>
                 </div>
 
