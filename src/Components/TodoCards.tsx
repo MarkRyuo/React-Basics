@@ -8,7 +8,6 @@ export default function TodoCards() {
                 <div className="actionContainer">
                     <div className="btn-icons">
                             <i className="fa-solid fa-pen-to-square"></i>
-                        <button type="button" onClick={() => {}}>
                             <i className="fa-solid fa-trash"></i>
                         </button>
                     </div>
